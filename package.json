@@ -1,0 +1,22 @@
+{
+  "name": "web222-final-project-master",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhapate18/Web-222.git"
+  },
+  "author": "Abha Patel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhapate18/Web-222/issues"
+  },
+  "homepage": "https://github.com/abhapate18/Web-222#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "description": ""
+}
